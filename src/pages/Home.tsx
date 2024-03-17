@@ -15,25 +15,24 @@ export const Home = () => {
       </div>
       <div style={{ height: "100vh", display: "flex", justifyContent: "center", alignItems: "center" }}>
         <span style={{ color: "white", fontSize: "8rem", fontWeight: "normal" }}>
-          未来を創る、コードと共に。
+          ほげほげほげほげほげ
         </span>
       </div>
       <div style={{ height: "100vh" , display:"flex" , justifyContent:"center"}}>
         <div style={{height:"100%" , display: "flex", justifyContent: "center", alignItems: "center",  flexDirection: "column" , maxWidth:"800px" , gap:"20px"  }}>
-          <p style={{ color: "white", fontSize: "4rem", fontWeight: "normal" }}>未来への扉を開く、プログラミングの旅</p>
+          <p style={{ color: "white", fontSize: "4rem", fontWeight: "normal" }}>ほげほげほげほげほげほげほげ</p>
           <p style={{ color: "white", fontSize: "2rem", fontWeight: "normal" }}>
-            私たちのサークルでは、プログラミングを通じて未来を創造することを信条としています。
-            コーディングの力で新しい技術やアプリケーションを開発し、世界に革新をもたらすことを目指しています。
-            未来のテクノロジストやイノベーターを育成するためのプラットフォームとして、一緒に学び、成長しましょう。
+          ほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげ
+          ほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげ
           </p>
         </div>
       </div>
       <div style={{ height: "100vh" , display:"flex" , justifyContent:"center"}}>
         <div style={{height:"100%" , display: "flex", justifyContent: "center", alignItems: "center",  flexDirection: "column" , maxWidth:"800px" , gap:"20px"  }}>
-          <p style={{ color: "white", fontSize: "4rem", fontWeight: "normal" }}>コーディングはアート。</p>
+          <p style={{ color: "white", fontSize: "4rem", fontWeight: "normal" }}>ほげほげほげほげほげほげほげほげほげ</p>
           <p style={{ color: "white", fontSize: "2rem", fontWeight: "normal" }}>
-          私たちのサークルは、コーディングを芸術と捉え、プログラミングの世界で創造性を発揮することを重視しています。
-          アルゴリズムやデザインの美しさを追求し、テクノロジーを通じて感動的な体験を生み出すことに情熱を持っています。一緒に、未知の領域への探求を楽しみましょう。
+          ほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげ
+          ほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげ
           </p>
         </div>
       </div>
