@@ -2,6 +2,7 @@ import React from "react";
 import '../index.css'
 import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
+import { Padding } from "@mui/icons-material";
 
 export const Home = () => {
   return (
@@ -36,9 +37,17 @@ export const Home = () => {
           </p>
         </div>
       </div>
-      <div style={{ height: "100vh", display: "flex", alignItems: "center" , paddingInline:"20rem"}}>
-        <div style={{height:"80%", width:"50%" , borderRadius:"5%", backgroundColor:"rgba(255,255,255,0.3)"}}></div>
-
+      <div style={{ height: "100vh", display:"flex" , flexDirection:"column" , justifyContent:"center"}}>
+        <p style={{color: "white", fontSize: "3rem",marginRight:"auto" , marginLeft:"12rem" , marginBottom:"8rem"}}>Find out about us</p>
+        <div style={{ height: "60%", width: "100%", backgroundColor: "rgba(255,255,255,0.2)", marginLeft: "auto" }}>
+          <div style={{height:"100%" , display:"flex"}}>
+            <div style={{paddingLeft:"10rem"}}>
+              <p style={{color: "white", fontSize: "2rem"}}>Uniting Passion, Creativity, and Community</p>
+              <p style={{color: "white", fontSize: "2rem"}}>ー組織詳細へー</p>
+            </div>
+            <img src="about.jpg" alt="" style={{ height:"100%" , marginLeft:"auto" , marginRight:"8rem"}} />
+          </div>
+        </div>
 
       </div>
       <div style={{ height: "100vh", display: "flex", justifyContent: "center", alignItems: "center" }}>
